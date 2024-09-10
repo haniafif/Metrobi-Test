@@ -23,11 +23,7 @@ function ZenoParadox() {
         newAchillesPosition = achillesPosition + 1;
         newTortoisePosition = tortoisePosition + 0.5;
       }
-
-      console.log(newAchillesPosition,newTortoisePosition)
-
       
-
       setAchillesPosition(newAchillesPosition);
       setTortoisePosition(newTortoisePosition);
     }
