@@ -1,0 +1,1 @@
+This is question3 of the Metrobi test, to run the project please run "npm i" and then "npm run start"
